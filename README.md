@@ -1,2 +1,10 @@
 # OS_PRACTICALS
-OS PRACTICAL Dec 2021 sem3
+OS PRACTICAL 
+
+Esha Singh
+
+20201412 | Semester - 3
+
+B.Sc Hons Computer Science 
+
+Ramanujan College
